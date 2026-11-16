@@ -5,6 +5,7 @@ author: "Ruben Garcia"
 date: today
 format:
   html:
+    output-file: index.html
     embed-resources: true
     toc: true
     toc-depth: 2
@@ -343,8 +344,9 @@ Filtering with `_TABLE_SUFFIX` early and extracting parameters inside a CTE made
 
 ## Links
 
-- **GitHub Repository:** [PASTE REPO LINK HERE](https://github.com/rubencgarcia/REPLACE-WITH-REPO-NAME)
-- **GitHub Pages:** [PASTE PAGES LINK HERE](https://rubencgarcia.github.io/REPLACE-WITH-REPO-NAME/)
+- **GitHub Repository:** [https://github.com/rubencgarcia/GA4-4---SQL-Pack](https://github.com/rubencgarcia/GA4-4---SQL-Pack)
+- **GitHub Pages:** [https://rubencgarcia.github.io/GA4-4---SQL-Pack/](https://rubencgarcia.github.io/GA4-4---SQL-Pack/)
+
 
 ## Files Submitted
 
